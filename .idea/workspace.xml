@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8578e084-7cb8-436a-add1-b79312a25b12" name="Changes" comment="PostgreSQL" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sapiony&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sapiony/bot-demo.git&quot;,
+    &quot;accountId&quot;: &quot;a1f3d4fb-9773-4b81-8f34-433e5f80945e&quot;
+  }
+}</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dzdckXfYvJX4Xlq5bcwIuOf5Na" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.java-bot [clean].executor": "Run",
+    "Maven.java-bot [org.apache.maven.plugins:maven-clean-plugin:3.3.2:clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.JavaBotApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bojce/Desktop/JavaBot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaProject\java-bot\src\main\resources\db\changelog" />
+      <recent name="C:\JavaProject\java-bot\src\main\resources\db\2024.04" />
+      <recent name="C:\JavaProject\java-bot\src\main\resources\db" />
+      <recent name="C:\JavaProject\java-bot\src\main\resources\db.changelog\changelog" />
+      <recent name="C:\JavaProject\java-bot\src\main\resources\db.changelog\changelog\2024\04" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaBotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="BotToken" />
+        </param>
+      </additionalParameters>
+      <module name="java-bot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Javabot.JavaBotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaBotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="bot.token" />
+          <option name="value" value="TOKEN" />
+        </param>
+      </additionalParameters>
+      <module name="java-bot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Javabot.JavaBotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8578e084-7cb8-436a-add1-b79312a25b12" name="Changes" comment="" />
+      <created>1711014921875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711014921875</updated>
+      <workItem from="1711014923842" duration="20060000" />
+      <workItem from="1711141966906" duration="556000" />
+      <workItem from="1711143015066" duration="594000" />
+      <workItem from="1711143669500" duration="846000" />
+      <workItem from="1711145539140" duration="1098000" />
+      <workItem from="1711184636301" duration="2683000" />
+      <workItem from="1712379416689" duration="3000" />
+      <workItem from="1712379844491" duration="372000" />
+      <workItem from="1712380607800" duration="207000" />
+      <workItem from="1712998339321" duration="7219000" />
+      <workItem from="1713005585433" duration="15759000" />
+      <workItem from="1713437514202" duration="31000" />
+      <workItem from="1716150219241" duration="38000" />
+      <workItem from="1716628149632" duration="909000" />
+      <workItem from="1716629256595" duration="895000" />
+    </task>
+    <task id="LOCAL-00001" summary="Новыйкомит">
+      <option name="closed" value="true" />
+      <created>1711185234250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711185234250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PostgreSQL">
+      <option name="closed" value="true" />
+      <created>1712999404881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712999404881</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PostgreSQL">
+      <option name="closed" value="true" />
+      <created>1713019207839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713019207839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PostgreSQL">
+      <option name="closed" value="true" />
+      <created>1713019279607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713019279607</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Новыйкомит" />
+    <MESSAGE value="PostgreSQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="PostgreSQL" />
+  </component>
+</project>
